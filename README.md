@@ -37,9 +37,9 @@ Busco una oportunidad para seguir creciendo en el área tecnológica, aportar mi
 ---
 
 ## 🚀 Proyectos Destacados
--🌐 Páginas web estáticas (HTML/CSS/JS)
--📄 CV y portafolios web
--🧠 Proyectos académicos del SENA
+- 🌐 **Páginas web estáticas (HTML/CSS/JS)**
+- 📄 **CV y portafolios web**
+- 🧠 **Proyectos académicos del SENA**
 
  **Proximamente más 👀**
 
