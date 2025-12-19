@@ -26,7 +26,6 @@ Busco una oportunidad para seguir creciendo en el área tecnológica, aportar mi
 
 ### Lenguajes
 <p align="center">
-<p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
