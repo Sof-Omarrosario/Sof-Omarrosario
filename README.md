@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=OmarDaniel%20RosarioRamos&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Omar%Daniel%20Rosario%Ramos&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">💻 Desarrollador Web | Frontend en formación</h3>
