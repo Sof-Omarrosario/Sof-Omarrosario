@@ -12,10 +12,13 @@
 ---
 
 ## 🧠 Sobre mí
-- 🎯 Enfocado en **desarrollo web frontend**
-- 📚 Aprendiendo y mejorando cada día
-- 🧩 Me gusta resolver problemas con código
-- 🌐 Interesado en proyectos reales y colaborativos
+Soy estudiante de Análisis y Desarrollo de Software, con conocimientos en programación y mantenimiento de hardware, enfocado en comprender y construir soluciones tecnológicas eficientes y funcionales. Me caracterizo por mi compromiso con el aprendizaje continuo, la responsabilidad y la capacidad de adaptarme a distintos entornos de trabajo.
+
+Cuento con bases técnicas en el mantenimiento preventivo y correctivo de equipos de cómputo, lo que me permite tener una visión integral del funcionamiento del hardware y el software, aportando valor tanto en soporte técnico como en desarrollo.
+
+Además de la tecnología, me apasionan los videojuegos, ya que fortalecen mi pensamiento lógico y la resolución de problemas, y el ejercicio físico, que considero clave para mantener la disciplina, la constancia y el enfoque en mis objetivos profesionales.
+
+Busco una oportunidad para seguir creciendo en el área tecnológica, aportar mis conocimientos y desarrollar experiencia real dentro de un equipo de trabajo orientado a la innovación.
 
 ---
 
