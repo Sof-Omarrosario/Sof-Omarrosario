@@ -1,51 +1,78 @@
-# 🚀 Codificando mi camino entre la Fe y la Programación 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Omar%20Rosario&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![Banner](assets/banner.png)
+<h3 align="center">💻 Desarrollador Web | Frontend en formación</h3>
 
----
-
-## 👩‍🚀 WHO AM I? 💚
-
-Soy estudiante del programa **Análisis y Desarrollo de Software** del **SENA**, apasionada por aprender y crear soluciones digitales que aporten valor real.
-
-Soy cristiana ✝️ y estudiante de teología, convencida de que la tecnología puede ser una herramienta poderosa para servir, comunicar valores y generar impacto positivo en las personas.
-
-Me caracterizo por ser **proactiva, responsable y con disposición para asumir nuevos retos**, combinando fe, conocimiento y creatividad en cada proyecto.
-
-> 📘 *La tecnología no solo resuelve problemas, también conecta ideas, personas y propósitos.*
-
----
-
-## 👩‍💻 Lenguajes y Tecnologías
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<p align="center">
+  Apasionado por crear interfaces modernas, funcionales y responsivas 🚀
 </p>
 
 ---
 
-## 🛠️ Conocimientos y Herramientas Complementarias
-
-- 🔐 Ciberseguridad (fundamentos)
-- 🧪 temp-mail.org – pruebas y validaciones
-- 🤖 gamma.app – presentaciones con IA
-- 🧠 gitmind.com – mapas mentales y organización de ideas
-- 🖥️ Mantenimiento básico de equipos de cómputo (hardware y software)
+## 🧠 Sobre mí
+- 🎯 Enfocado en **desarrollo web frontend**
+- 📚 Aprendiendo y mejorando cada día
+- 🧩 Me gusta resolver problemas con código
+- 🌐 Interesado en proyectos reales y colaborativos
 
 ---
 
-## 🎯 Objetivo
+## 🛠️ Tech Stack
 
-Crecer como desarrolladora de software, aportando **código limpio**, soluciones eficientes y proyectos con propósito 💻✨, donde la innovación y los valores vayan de la mano.
+### Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+### Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+- 🌐 **Landing Pages responsivas**
+- ⚙️ **Proyectos JavaScript**
+- 🐍 **Scripts y ejercicios en Python**
+- 📦 **Proyectos personales en crecimiento**
+
+👉 Revisa mis repositorios 👇
+
+---
+
+## 🎯 Objetivo Profesional
+Convertirme en desarrollador web profesional, aportando soluciones eficientes y escalables, mientras continúo creciendo en el mundo del software.
 
 ---
 
 ## 📫 Contacto
-
-- 📧 **Correo:** pecesitaruiz@email.com  
-- 🐙 **GitHub:** [github.com/Maranatha2025](https://github.com/Maranatha2025)  
-- 💼 **LinkedIn:** [Roxana Ruiz Rocampo](https://www.linkedin.com/in/roxana-ruiz-ricocampo-279aba327)
+<p>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:TUCORREO@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🌱 Aprendiendo, creando y creciendo en el desarrollo de software con fe y propósito ✝️💻
+<p align="center">
+  ⚡ *Perfil en constante evolución*
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
