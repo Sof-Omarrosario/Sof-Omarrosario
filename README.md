@@ -52,18 +52,17 @@ Desarrollarme profesionalmente en el área de Análisis y Desarrollo de Software
 ---
 
 ## 📫 Contacto
-<p align="center">
-  <a href="www.linkedin.com/in/omar-rosario-2002443a0 target="_blank">
+<p align="left">
+  <a href="https://github.com/Sof-Omarrosario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/omar-rosario-2002443a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:omarrosario637@gmail.com">
+  <a href="mailto:omarramos1069@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sof-Omarrosario">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
 </p>
-
 
 ---
 
