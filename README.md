@@ -47,7 +47,7 @@ Busco una oportunidad para seguir creciendo en el área tecnológica, aportar mi
 ---
 
 ## 🎯 Objetivo Profesional
-Convertirme en desarrollador web profesional, aportando soluciones eficientes y escalables, mientras continúo creciendo en el mundo del software.
+Desarrollarme profesionalmente en el área de Análisis y Desarrollo de Software, aplicando mis conocimientos en programación y tecnología, fortaleciendo mis habilidades técnicas y aportando valor a proyectos reales dentro de un equipo de trabajo innovador.
 
 ---
 
@@ -56,7 +56,7 @@ Convertirme en desarrollador web profesional, aportando soluciones eficientes y 
   <a href="https://github.com/TU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:TUCORREO@gmail.com">
+  <a href="mailto:omarrosario637@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
