@@ -53,7 +53,7 @@ Desarrollarme profesionalmente en el área de Análisis y Desarrollo de Software
 
 ## 📫 Contacto
 <p>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="www.linkedin.com/in/omar-rosario-2002443a0">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:omarrosario637@gmail.com">
