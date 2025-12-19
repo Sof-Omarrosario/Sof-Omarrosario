@@ -25,6 +25,7 @@ Busco una oportunidad para seguir creciendo en el área tecnológica, aportar mi
 ## 🛠️ Tech Stack
 
 ### Lenguajes
+<p align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
@@ -52,7 +53,7 @@ Desarrollarme profesionalmente en el área de Análisis y Desarrollo de Software
 ---
 
 ## 📫 Contacto
-<p align="left">
+<p align="center">
   <a href="https://github.com/Sof-Omarrosario" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
