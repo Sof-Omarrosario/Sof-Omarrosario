@@ -26,20 +26,12 @@ Busco una oportunidad para seguir creciendo en el área tecnológica, aportar mi
 
 ### Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
