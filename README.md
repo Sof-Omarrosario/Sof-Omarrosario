@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Omar%20Daniel%20Rosario%20Ramos&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">💻 Desarrollador Web | Frontend en formación</h3>
+<h3 align="center">💻 Estudiante de Analisis y Desarrollo de Software</h3>
 
 <p align="center">
-  Apasionado por crear interfaces modernas, funcionales y responsivas 🚀
+  Apasionado por crear interfaces modernas y muchas cosas mas, que sean funcionales y responsivas pera el mundo 🚀
 </p>
 
 ---
