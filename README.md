@@ -30,19 +30,18 @@ Busco una oportunidad para seguir creciendo en el área tecnológica, aportar mi
 </p>
 
 ### Herramientas
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Proyectos Destacados
-- 🌐 **Landing Pages responsivas**
-- ⚙️ **Proyectos JavaScript**
-- 🐍 **Scripts y ejercicios en Python**
-- 📦 **Proyectos personales en crecimiento**
+-🌐 Páginas web estáticas (HTML/CSS/JS)
+-📄 CV y portafolios web
+-🧠 Proyectos académicos del SENA
 
-👉 Revisa mis repositorios 👇
+ **Proximamente más 👀**
 
 ---
 
